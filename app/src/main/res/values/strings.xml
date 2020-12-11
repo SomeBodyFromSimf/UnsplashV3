@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UnsplashV3</string>
+
+    <string name="favorites">Избранное</string>
+    <string name="photos">Фотографии</string>
+    <string name="info">Информация</string>
+    <string name="error">Что-то пошло не так</string>
+    <string name="about">В этом приложении я использовал:</string>
+    <string name="libs">\n
+        1. Jetpack Compose\n
+        2. Jetpack Compose Navigation\n
+        3. Paging Compose\n
+        4. Coroutines\n
+        5. Room\n
+        6. Ktor\n
+        7. Koin\n
+        8. Coil\n
+    </string>
+    <string name="write_to_me">Ссылки для связи:</string>
+    <string name="url_telegram">https://t.me/mihail_simf_1992</string>
+    <string name="my_mail">mihail.chistousov@gmail.com</string>
+
+</resources>
